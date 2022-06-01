@@ -4,6 +4,7 @@ import java.util.Arrays;
  * @author lavinia.winter@edu.pucrs.br
  * @author helio.strappazzon@edu.pucrs.br
  * @author schwartz.lucas@edu.pucrs.br
+ * repositório: https://github.com/KopWinter/Dancante.git
  */
 
 public class Main {
